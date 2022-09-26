@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: arial;
+}
+
+header h1{
+    padding: 20px;
+}
+p b{
+    color:red;
+}
+
+#banner{
+width: 99%;
+padding: 1px;
+display:flex;
+justify-content: center;
+}
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #CCCCCC;
+}
+
+h2 {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.container,
+.imagembeneficios,
+.lista-iten
+{
+    width: 95%;
+}
+.container{
+    display:flex ;
+    padding: 20px;
+}
+.col-direita,
+.col-esquerda {
+    width: 50%;
+}
+.container1{
+    background-color: #bdbabab2;
+}
+
+
+
+
+
+
+
